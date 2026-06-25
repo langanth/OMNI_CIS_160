@@ -55,6 +55,7 @@ Part 3 will walk you through setting up a project folder to hold your files for 
 
 7. This will create a new file where a text box will be open and expecting you to type in a name for the file. type in `hello_world.py` and press enter.
 
+
 ![hello_world](/images/hello_world.png)
 
 > 	You have now created a new python file. Adding `.py` after any text when creating a file will automatically create the file as a python file.
