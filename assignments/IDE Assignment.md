@@ -41,10 +41,11 @@ Part 3 will walk you through setting up a project folder to hold your files for 
 1. Create a folder on your computer at a location that you can easily access. Name the folder "CIS_160". We will use this as a place to organize all of our files for this assignment and potentially the course.
 2. Open up **Visual Studio Code** and look for the extensions tab on the left hand side. Its icon is depicted below. Click on it and in the search bar, type in python.
 
-![extension_icon](/images/extensions_icon.png)
+![extensions_icon](/images/extensions_icon.png)
+
 3. Click on the Python extension by Microsoft and install it. It should look like the image below.
 
-![python_extension](/images/python_extension_icon.png)
+![python_extension_icon](/images/python_extension_icon.png)
 
 4. Go ahead and close the tab it opened after it is done installing.
 5. Next you will need to open the folder you created. This will be your project folder moving forward. Click on **File** and then click on **Open Folder...** which will then open up a new window. Locate your folder and click select folder. If you are on a Mac, you will click on the apple icon in the top left and click on **Open Folder...** as well and then locate the folder you created, select it and click on select folder.
