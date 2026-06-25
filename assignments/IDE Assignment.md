@@ -69,4 +69,4 @@ print("My name is", name)
 9. Once you have written your code, we will now run the python file for testing. On the upper right hand side of the window you will see a triangle point to the right. This is the run button. Press that button to run the python script. It may produce a dropdown menu, click on the **Run Python File**.
 10. Take a screen shot of the results and place the image in a word document and submit it to Blackboard. The final results should look similar to the following:
 
-![results](/images/result.png)
+![result](/images/result.png)
